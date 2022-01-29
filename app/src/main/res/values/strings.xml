@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">SamsungChecks</string>
     <string name="xposed_description">IDK it work or n, but module for samsung wearable</string>
+    <string-array name="app" >
+        <item>com.samsung.android.app.watchmanager</item>
+        <item>com.samsung.android.waterplugin</item>
+    </string-array>
 </resources>
