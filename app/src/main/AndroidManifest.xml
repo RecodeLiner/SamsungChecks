@@ -21,7 +21,7 @@
         />
     <meta-data
         android:name="xposedscope"
-        android:resource="@array/app"
+        android:resource="@string/app"
         />
     </application>
 </manifest>
