@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app" >
+        <item>com.samsung.android.app.watchmanager</item>
+    </string-array>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SamsungChecks</string>
+    <string name="xposed_description">IDK it work or n, but module for samsung wearable</string>
+</resources>
