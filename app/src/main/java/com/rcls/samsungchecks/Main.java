@@ -7,5 +7,6 @@ public class Main implements IXposedHookLoadPackage {
     @Override
     public void handleLoadPackage(final LoadPackageParam lpp) {
         XposedHelpers.setStaticObjectField(android.os.Build.class, "MANUFACTURER", "Google" );
+        XposedHelpers.setStaticObjectField(android.os.Build.class, "BRAND", "Google" );
     }
 }
